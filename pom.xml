@@ -19,7 +19,6 @@
     <artifactId>log-api</artifactId>
     <version>0.1-SNAPSHOT</version>
 
-
     <name>Logging API</name>
     <description>
         The project defines annotations used to
